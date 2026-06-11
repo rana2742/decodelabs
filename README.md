@@ -72,7 +72,3 @@ After completing this practical, I was able to:
 ## Author
 
 Aqib Hussain
-
-## License
-
-This project is created for educational and learning purposes.
